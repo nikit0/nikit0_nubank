@@ -9,5 +9,5 @@ PTBR - Este mapa eu fiz a 6 meses atrás para meu servidor de fivem.
 
 -------------------------FIVEM-------------------------
 
-1 - COPY nikit0_nubank INTO YOUR RESOURCE FOLDER
-2 - ADD nikit0_nubank IN THE SERVER.CFG
+- 1 - COPY nikit0_nubank INTO YOUR RESOURCE FOLDER
+- 2 - ADD nikit0_nubank IN THE SERVER.CFG
